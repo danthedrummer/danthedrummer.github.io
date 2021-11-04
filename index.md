@@ -1,4 +1,5 @@
 ___
+layout: home
 title: Home
 ___
 
