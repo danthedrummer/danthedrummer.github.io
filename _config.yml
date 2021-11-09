@@ -21,9 +21,7 @@
 title: Dan Downey
 email: dan.downey.contact@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a space for me to gather my thoughts and things that I’ve learned. 
-  My hope is that the things I write about will be of value to somebody whether 
-  you are an engineer, a student, or somebody not involved in technology at all!
+  The majority of my content will be posted over on [dandowney.org](https://www.dandowney.org)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
