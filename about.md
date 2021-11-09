@@ -10,8 +10,6 @@ I’m a software engineer based in Dublin, Ireland.
 
 Currently I work for Squarespace as an Android engineer on the Unfold app!
 
-![](./_assets/images/about.jpg)
-
 ### A little bit more background
 
 Back in 2011 I began studying electronic engineering. Learning about robotics, signal processing, automation, circuit theory, and calculus… and then I stopped. I enjoyed parts of studying electronics but a lot of it was stressful and difficult to me. When I look back on it I remember that I enjoyed messing with C++, programming robots in C, tinkering with micro-controllers in Assembly (kinda), writing data filters in MATLAB, and automating logic controllers with Ladder Logic. So basically programming is what I enjoyed!
@@ -21,8 +19,6 @@ Then in 2014 after 2 years of studying and a year on hiatus I decided to transit
 My course was a mixture of computer science and business so on top of learning to use languages like Java, C#, and Ruby, I was also picking up some business analysis and strategic thinking skills along the way. I disliked the subjects at the time but in retrospect they were highly beneficial.
 
 In 2017 during my 3rd year in college I began an internship in Zendesk working on their mobile SDK (software development kit) teams. This was a massive leap into the deep end having had no experience with mobile development outside of a terrible college project that didn’t work! But I ended up on a team of skilled engineers who were great mentors and before long I was up to speed and contributing to the project.
-
-CoderDojo.png
 
 During this time I also began volunteering for Coderdojo teaching kids how to use computers. This included simple programs in Python or Scratch, web pages with HTML & CSS, and occasionally small robotics projects with LEGO Mindstorms or Raspberry Pi’s and basic circuits.
 
