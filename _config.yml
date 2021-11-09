@@ -20,8 +20,8 @@
 
 title: Dan Downey
 email: dan.downey.contact@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  The majority of my content will be posted over on [dandowney.org](https://www.dandowney.org)
+# description: >- # this means to ignore newlines until "baseurl:"
+#   The majority of my content will be posted over on [dandowney.org](https://www.dandowney.org)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
